@@ -1,5 +1,7 @@
-
-1 Solicita al usuario un entero y crea un arreglo dinámico de ese tamaño.Luego, llena el arreglo con números ingresados por el usuario.
+/*
+Solicita al usuario un entero y crea un arreglo dinámico de ese tamaño.
+Luego, llena el arreglo con números ingresados por el usuario.
+*/
 
 #include <iostream>
 #include <iomanip>
